@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/FormValidation-using-ReactJs/static/css/main.e2984f22.css",
-    "main.js": "/FormValidation-using-ReactJs/static/js/main.35fccc1c.js",
+    "main.css": "/FormValidation-using-ReactJs/static/css/main.19b42663.css",
+    "main.js": "/FormValidation-using-ReactJs/static/js/main.c74e4ac9.js",
     "static/media/logo.svg": "/FormValidation-using-ReactJs/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/FormValidation-using-ReactJs/index.html",
-    "main.e2984f22.css.map": "/FormValidation-using-ReactJs/static/css/main.e2984f22.css.map",
-    "main.35fccc1c.js.map": "/FormValidation-using-ReactJs/static/js/main.35fccc1c.js.map"
+    "main.19b42663.css.map": "/FormValidation-using-ReactJs/static/css/main.19b42663.css.map",
+    "main.c74e4ac9.js.map": "/FormValidation-using-ReactJs/static/js/main.c74e4ac9.js.map"
   },
   "entrypoints": [
-    "static/css/main.e2984f22.css",
-    "static/js/main.35fccc1c.js"
+    "static/css/main.19b42663.css",
+    "static/js/main.c74e4ac9.js"
   ]
 }
