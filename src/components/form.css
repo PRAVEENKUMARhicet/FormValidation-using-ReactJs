@@ -89,3 +89,7 @@ button:hover {
     background-color: white;
     color: green;
 }
+
+.error{
+    color: red;
+}
